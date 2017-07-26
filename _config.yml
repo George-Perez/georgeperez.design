@@ -1,0 +1,41 @@
+url: https://georgeperez.design
+baseurl: 
+
+# Site settings
+title: George Perez
+email: georgeperezis@gmail.com
+description: "Web designer fron San Antonio Texas. "
+
+
+# Team names, titles and social links
+people:
+- name: George Perez
+  pic: george
+  position: Developer
+  social:
+    - title: twitter
+      url: #https://twitter.com/gperez1974
+    - title: facebook
+      url: #https://www.facebook.com/georgeperez
+    - title: linkedin
+      url: #https://www.linkedin.com/in/george-perez-a42b0117/
+ 
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/gperez1974
+  - title: facebook
+    url: https://www.facebook.com/georgeperez
+  - title: github
+    url: https://github.com/George-Perez
+  - title: linkedin
+    url: https://www.linkedin.com/in/george-perez-a42b0117/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+  - line: San Antonio, TX 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
