@@ -667,6 +667,10 @@ section#contact {
     background-repeat: no-repeat;
 }
 
+section#contact h2 {
+    color: #{{ site.data.template.color.primary }};
+}
+
 section#contact .section-heading {
     color: #fff;
 }
