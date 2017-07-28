@@ -661,7 +661,6 @@ aside.clients img {
 }
 
 section#contact {
-    padding-top: 160px;
     background-color: #222;
     background-image: url('{{ site.baseurl }}/img/SA-MAP.png');
     background-position: center;
