@@ -14,11 +14,11 @@ people:
   position: Developer
   social:
     - title: twitter
-      url: #https://twitter.com/gperez1974
+      url: https://twitter.com/gperez1974
     - title: facebook
-      url: #https://www.facebook.com/georgeperez
+      url: https://www.facebook.com/georgeperez
     - title: linkedin
-      url: #https://www.linkedin.com/in/george-perez-a42b0117/
+      url: https://www.linkedin.com/in/george-perez-a42b0117/
  
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
