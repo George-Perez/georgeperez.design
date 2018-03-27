@@ -872,7 +872,6 @@ body {
 
 
 /*////////Skills///////*/
-
 .skills {
   animation-name: skills;
 }
@@ -881,7 +880,7 @@ html {
   font-family: sans-serif;
 }
 body  {
-  background: #5aa8e8;
+  background: #fff;
 }
 html,
 body,
@@ -900,7 +899,7 @@ main {
   align-items: center;
 }
 section {
-  background: #5aa8e8;
+  background: #fff;
 }
 section article.skills {
   width: 500px;
@@ -997,7 +996,7 @@ section:after {
 }
 @keyframes skills {
   0% {
-    left: -500px;
+    left: 500px;
     opacity: 0;
   }
   100% {
