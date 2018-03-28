@@ -331,7 +331,7 @@ section {
 
 section h2.section-heading {
     margin-top: 0;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     font-size: 40px;
 }
 
@@ -634,7 +634,7 @@ section h3.section-subheading {
 }
 
 .team-member {
-    margin-bottom: 50px;
+    margin-bottom: 25px;
     text-align: center;
 }
 
@@ -647,7 +647,7 @@ section h3.section-subheading {
 }
 
 .team-member h4 {
-    margin-top: 25px;
+    margin-top: 5px;
     margin-bottom: 0;
     text-transform: none;
 }
@@ -901,6 +901,9 @@ main {
 section {
   background: #fff;
 }
+.skills-container {
+    margin-top: 50px;
+}
 section article.skills {
   width: 500px;
   height: auto;
@@ -967,30 +970,7 @@ section article.skills div:nth-child(8) span:nth-child(2) {
   width: 75%;
   animation-delay: 0.35s;
 }
-/*
-section:before {
-  position: absolute;
-  top: -250px;
-  left: -350px;
-  width: 500px;
-  height: 500px;
-  content: '';
-  background: rgba(108, 90, 232, 0.25);
-  transform: rotate(30deg);
-}
-*/
-/*
-section:after {
-  position: absolute;
-  bottom: -250px;
-  right: -350px;
-  width: 500px;
-  height: 500px;
-  content: '';
-  background: rgba(108, 90, 232, 0.25);
-  transform: rotate(30deg);
-}
-*/
+
 .skills {
   animation: skills 1.25s cubic-bezier(0.17, 0.67, 0, 1);
 }
