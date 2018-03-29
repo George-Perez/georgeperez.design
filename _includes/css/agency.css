@@ -903,9 +903,10 @@ section {
 }
 .skills-container {
     margin-top: 70px;
+    
 }
 section article.skills {
-  width: 500px;
+  width: 100%;
   height: auto;
 }
 section article.skills p {
@@ -973,11 +974,11 @@ section article.skills div:nth-child(8) span:nth-child(2) {
 }
 section article.skills div:nth-child(9) span:nth-child(2) {
   width: 90%;
-  animation-delay: 0.25s;
+  animation-delay: 0.4s;
 }
 section article.skills div:nth-child(10) span:nth-child(2) {
   width: 60%;
-  animation-delay: 0.2s;
+  animation-delay: 0.45s;
 }
 
 .skills {
