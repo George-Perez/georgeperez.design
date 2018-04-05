@@ -96,3 +96,15 @@ window.onload = function() {
 	css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
 	document.body.appendChild(css);
 };
+
+///////////// Skills Animation on Scroll ////////////////
+$(window).scroll(function() {    
+var scroll = $(window).scrollTop();
+
+if (scroll >= 300) {
+    $(".pre-skills").addClass("skills");
+} else {
+    $(".pre-skills").removeClass("skills");
+}
+});
+    
