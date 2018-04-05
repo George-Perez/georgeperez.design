@@ -1,5 +1,5 @@
 ---
-title: Golden
+title: Logo Design 
 subtitle: Website Design
 layout: default
 modal-id: 3
