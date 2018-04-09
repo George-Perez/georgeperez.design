@@ -97,7 +97,7 @@ window.onload = function() {
 	document.body.appendChild(css);
 };
 
-///////////// Skills Animation on Scroll ////////////////
+/////////// Skills Animation on Scroll ////////////////
 $(window).scroll(function() {    
 var scroll = $(window).scrollTop();
 
@@ -107,4 +107,3 @@ if (scroll >= 300) {
     $(".pre-skills").removeClass("skills");
 }
 });
-    

@@ -1,0 +1,17 @@
+---
+title: Salon Razor Website
+subtitle: Website Development
+layout: default
+modal-id: 1
+date: 2018-01-18
+img: salonrazor.png
+thumbnail: SalonRazorThumbnail.png
+alt: image-alt
+project-date: October 2017
+client: Salon Razor
+site: http://salonrazor.com/
+category: Web Development
+stack: HTML, CSS, Bootstrap, JavaScript, and jQuery.
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

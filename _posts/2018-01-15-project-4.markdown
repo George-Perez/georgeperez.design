@@ -1,0 +1,14 @@
+---
+title: Photography
+subtitle: Photography
+layout: default
+modal-id: 4
+date: 2018-01-15
+img: photography.png
+thumbnail: photography-thumbnail.png
+alt: image-alt
+client: Photography
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
