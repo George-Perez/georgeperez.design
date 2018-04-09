@@ -1,6 +1,6 @@
 ---
 title: Salon Razor Website
-subtitle: Website Development
+subtitle: Website Design & Development
 layout: default
 modal-id: 1
 date: 2018-01-18
@@ -10,8 +10,8 @@ alt: image-alt
 project-date: October 2017
 client: Salon Razor
 site: http://salonrazor.com/
-category: Web Development
-stack: HTML, CSS, Bootstrap, JavaScript, and jQuery.
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Web Design & Development
+stack: Jekyll, HTML, CSS, Bootstrap, JavaScript, and jQuery.
+description: The owners of Salon Razor needed a total overhaul of their website. I designed and built a new website for Salon Razor using Jekyll, HTML5, CSS3, Bootstrap, JavaScript, and jQuery. Created Icons and recorded video for header background.
 
 ---
