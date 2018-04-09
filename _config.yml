@@ -15,8 +15,6 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/gperez1974
-    - title: facebook
-      url: https://www.facebook.com/georgeperez
     - title: linkedin
       url: https://www.linkedin.com/in/george-perez-a42b0117/
  
@@ -24,8 +22,6 @@ people:
 social:
   - title: twitter
     url: https://twitter.com/gperez1974
-  - title: facebook
-    url: https://www.facebook.com/georgeperez
   - title: github
     url: https://github.com/George-Perez
   - title: linkedin

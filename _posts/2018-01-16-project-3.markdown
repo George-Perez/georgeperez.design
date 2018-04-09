@@ -1,6 +1,6 @@
 ---
 title: Bargain Price Movers
-subtitle: Website Design
+subtitle: Website Design & Development
 layout: default
 modal-id: 3
 date: 2018-01-15
@@ -9,8 +9,8 @@ thumbnail: bargainprice-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: multiple
-category: Graphic Design
-stack:
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Website Design & Development
+stack: HTML, CSS, Bootstrap, JavaScript, and jQuery.
+description: Design and build a custom website for a local moving company with quote request form using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 
 ---

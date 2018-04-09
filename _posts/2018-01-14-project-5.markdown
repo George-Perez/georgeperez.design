@@ -1,16 +1,16 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Visual Network Solutions
+subtitle: Website Design & Development
 layout: default
 modal-id: 5
 date: 2018-01-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: VNS.png
+thumbnail: VNS-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-stack: 
+project-date: March 2015
+client: Visual Network Solutions
+category: Website Design & Development
+stack: HTML, CSS, Bootstrap, JavaScript, and jQuery.
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: VoxConnex Website
-subtitle: Website Design
+subtitle: Website Design & Development
 layout: default
 modal-id: 2
 date: 2018-01-17
@@ -10,8 +10,8 @@ alt: image-alt
 project-date: January 2018
 client: Visual Network Solutions
 site: http://voxconnex.gearhostpreview.com/
-category: Web Development
-stack: ASP.NET MVC, SQL Server, HTML, CSS, Bootstrap.
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Web Design & Development
+stack: ASP.NET MVC, SQL Server, HTML5, CSS3, and Bootstrap4.
+description: Visual Network Solutions need a website for their hosted PBX products. I designed and developed this website using ASP.NET MVC, SQL Server, HTML5, CSS3, and Bootstrap4.  
 
 ---
