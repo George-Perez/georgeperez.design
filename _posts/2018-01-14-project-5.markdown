@@ -11,6 +11,6 @@ project-date: March 2015
 client: Visual Network Solutions
 category: Website Design & Development
 stack: HTML, CSS, Bootstrap, JavaScript, and jQuery.
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: This is the second website I created for Visual Network Solutions. I designed and built this website for Visual Network Solutions using HTML5, CSS3, JavaScript, and jQuery.
 
 ---
