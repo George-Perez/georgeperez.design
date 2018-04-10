@@ -18,6 +18,10 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.text-gray {
+    color: #f7f7f7;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -473,8 +477,9 @@ aside.clients img {
 }
 
 section#contact {
+    width:100%;
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/SA-MAP.png');
+/*    background-image: url('{{ site.baseurl }}/img/SA-MAP.png');*/
     background-position: center;
     background-repeat: no-repeat;
 }
