@@ -8,7 +8,7 @@ img: bargainprice.png
 thumbnail: bargainprice-thumbnail.png
 alt: image-alt
 project-date: April 2014
-client: multiple
+client: Bargain Price Movers
 category: Website Design & Development
 stack: HTML, CSS, Bootstrap, JavaScript, and jQuery.
 description: Design and build a custom website for a local moving company with quote request form using HTML, CSS, Bootstrap, JavaScript, and jQuery.

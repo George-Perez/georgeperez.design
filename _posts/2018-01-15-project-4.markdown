@@ -7,7 +7,7 @@ date: 2018-01-15
 img: photography.png
 thumbnail: photography-thumbnail.png
 alt: image-alt
-client: Photography
+client: Multiple
 category: Food & Product Photography
 stack: Photoshop, Pixelmator
 description: Samples of some of my photography. For over two years I took photos of food for a local bakery that was used on website, social media, and signage. I took photos for some of the clients that I was creating websites for. Some of those photos were used to create flyers, website banners and more. 
