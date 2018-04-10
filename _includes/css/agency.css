@@ -811,3 +811,9 @@ section article.skills div:nth-child(10) span:nth-child(2) {
     opacity: 1;
   }
 }
+
+.contact-conainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
