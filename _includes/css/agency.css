@@ -350,7 +350,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 140px 0;
     }
 }
 
@@ -479,6 +479,7 @@ aside.clients img {
     margin: 50px auto;
 }
 
+/*////////contact////////*/
 section#contact {
     width:100%;
     background-color: #222;
@@ -737,10 +738,12 @@ section article.skills p {
   z-index: 2;
   color: #fff;
   padding: 10px;
-  position: relative;
+  padding-left: 10px;
+  position:relative;
   box-sizing: border-box;
   overflow: hidden;
 }
+
 section article.skills div span:nth-child(1) {
   z-index: -2;
   position: absolute;
@@ -819,8 +822,28 @@ section article.skills div:nth-child(10) span:nth-child(2) {
   }
 }
 
-.contact-conainer{
+.contact-container{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+/*////////certificate////////*/
+
+.cert-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+    line-height: 40px;
+    outline: 0;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+
+.cert img {
+    padding: 25px 70px 25px 70px;    
 }
