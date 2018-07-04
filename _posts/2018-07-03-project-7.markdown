@@ -1,0 +1,17 @@
+---
+title: Party Plus Website
+subtitle: Website Development, Logo Design
+layout: default
+modal-id: 7
+date: 2018-07-03
+img: partyplus.png
+thumbnail: partyplus-thumbnail.png
+alt: image-alt
+project-date: June 2018
+client: Party Plus
+site: http://partyplus.store
+category: Web Development, Logo Design
+stack: HTML, CSS, Bootstrap, JavaScript, and jQuery.
+description: I was contacted by the owner of Party Plus to create a website and logo for the new company. I designed and built a new website for them using HTML5, CSS3, Bootstrap, JavaScript, and jQuery. Created multiple logos for the owner to choose from.
+
+---
