@@ -847,3 +847,8 @@ section article.skills div:nth-child(10) span:nth-child(2) {
 .cert img {
     padding: 25px 70px 25px 70px;    
 }
+
+.site-logo {
+    max-height: 30px;
+    max-width: 50%;
+}
